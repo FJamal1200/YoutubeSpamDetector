@@ -60,7 +60,7 @@ YoutubeSpamDetector/
 Clone the repository:
 
 ```bash
-git clone https://github.com/FJamal200/YoutubeSpamDetector.git
+git clone https://github.com/FJamal1200/YoutubeSpamDetector.git
 cd YoutubeSpamDetector
 ```
 
